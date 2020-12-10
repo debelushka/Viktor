@@ -1,0 +1,35 @@
+header {
+background-color: rgba(39, 25, 247, 0.13);
+text-align: center;
+}
+#fon{
+background-color: #8B7AA8;
+}
+header h1{
+  
+  text-shadow: #be1cdf 0 0 10px;
+}
+.slick-arrow {
+  background-color: rgba(0, 0, 0, 0.50) !important;
+  width: 50px !important;
+  height: 50px !important;
+  border: 5px rgba(238, 5, 5, 0.50) solid;
+  border-radius: 25px;
+  margin-left: 0px;
+  margin-right: 0px;
+  z-index: 2000;
+}
+img{
+  margin: 10px;
+}
+.ss3 {
+  background-color: #B3C2F2;
+  font-size: 20px;
+  border-radius: 5px;
+}
+footer {
+  text-align: center;
+  background-color: rgba(39, 25, 247, 0.253);
+  height: 90px;
+  font-size: 20px;
+}
